@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ThreadSample</string>
+    <string name="sample_thread_run">Thread running…</string>
+</resources>
